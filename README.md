@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Meu nome é david canton
+
+.Estou estudando na plataforma Alura
+
+.Estou me desenvolvendo na linguagem JavaScript
+
+.Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+Você pode entrar em contato comigo
+
+00001114407495sp@al.educacao.sp.gov.br
+
+
 <!--
 **portalprime/portalprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
